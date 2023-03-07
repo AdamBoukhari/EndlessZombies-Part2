@@ -1,0 +1,47 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  AssetManager.cpp
+  Background.cpp
+  Fighter.cpp
+  Game.cpp
+C:\Users\Praxis\OneDrive - Cégep de Sainte-Foy\travail cegep\Session 4\JeuxVideos\tp\tp2\EndlessZombies-Part2\ProjetSFML\Game.cpp(32,20): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Praxis\OneDrive - Cégep de Sainte-Foy\travail cegep\Session 4\JeuxVideos\tp\tp2\EndlessZombies-Part2\ProjetSFML\Game.cpp(44,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameMovingObject.cpp
+  GameObject.cpp
+  Hud.cpp
+  Joystick.cpp
+  KeyboardAndMouse.cpp
+  Life.cpp
+  LivesCounter.cpp
+  Main.cpp
+  PlayerControlsBridge.cpp
+  Projectile.cpp
+  RenderWindow.cpp
+  Score.cpp
+  Subject.cpp
+  DisplayObject.cpp
+  Timer.cpp
+  View.cpp
+  Compiling...
+  Zombie.cpp
+C:\Users\Praxis\OneDrive - Cégep de Sainte-Foy\travail cegep\Session 4\JeuxVideos\tp\tp2\EndlessZombies-Part2\ProjetSFML\Zombie.cpp(71,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 598 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ProjetSFML.vcxproj -> C:\Users\Praxis\OneDrive - Cégep de Sainte-Foy\travail cegep\Session 4\JeuxVideos\tp\tp2\EndlessZombies-Part2\Release\ProjetSFML.exe
+  C:\Users\Praxis\OneDrive - CΘgep de Sainte-Foy\travail cegep\Session 4\JeuxVideos\tp\tp2\EndlessZombies-Part2\Extern\SFML\bin\Release\openal32.dll
+  C:\Users\Praxis\OneDrive - CΘgep de Sainte-Foy\travail cegep\Session 4\JeuxVideos\tp\tp2\EndlessZombies-Part2\Extern\SFML\bin\Release\sfml-audio-2.dll
+  C:\Users\Praxis\OneDrive - CΘgep de Sainte-Foy\travail cegep\Session 4\JeuxVideos\tp\tp2\EndlessZombies-Part2\Extern\SFML\bin\Release\sfml-graphics-2.dll
+  C:\Users\Praxis\OneDrive - CΘgep de Sainte-Foy\travail cegep\Session 4\JeuxVideos\tp\tp2\EndlessZombies-Part2\Extern\SFML\bin\Release\sfml-network-2.dll
+  C:\Users\Praxis\OneDrive - CΘgep de Sainte-Foy\travail cegep\Session 4\JeuxVideos\tp\tp2\EndlessZombies-Part2\Extern\SFML\bin\Release\sfml-system-2.dll
+  C:\Users\Praxis\OneDrive - CΘgep de Sainte-Foy\travail cegep\Session 4\JeuxVideos\tp\tp2\EndlessZombies-Part2\Extern\SFML\bin\Release\sfml-window-2.dll
+  6 File(s) copied
+  C:\Users\Praxis\OneDrive - CΘgep de Sainte-Foy\travail cegep\Session 4\JeuxVideos\tp\tp2\EndlessZombies-Part2\Extern\VLD\bin\Win32\dbghelp.dll
+  C:\Users\Praxis\OneDrive - CΘgep de Sainte-Foy\travail cegep\Session 4\JeuxVideos\tp\tp2\EndlessZombies-Part2\Extern\VLD\bin\Win32\vld_x86.dll
+  2 File(s) copied
+  C:\Users\Praxis\OneDrive - CΘgep de Sainte-Foy\travail cegep\Session 4\JeuxVideos\tp\tp2\EndlessZombies-Part2\Extern\VLD\bin\Win32\Microsoft.DTfW.DHL.manifest
+  1 File(s) copied

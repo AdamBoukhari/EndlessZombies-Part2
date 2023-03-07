@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Abstracts">
+      <UniqueIdentifier>{30c59d78-2127-4480-9b79-c48ebc9424bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Abstracts">
+      <UniqueIdentifier>{4c6aec4b-1b66-47ee-9a2f-472c6bb9cc6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\AssetService">
+      <UniqueIdentifier>{99bd595c-511a-4779-a80a-7c6f7ed9ac1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\AssetService">
+      <UniqueIdentifier>{d02510ef-8232-4d20-aff6-432bc1543ab3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\InputService">
+      <UniqueIdentifier>{67e5d620-6e21-4bb8-95d9-caa66e290035}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\InputService">
+      <UniqueIdentifier>{e0d0ab78-0ee7-43d0-a909-12f008f79c10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\SFML">
+      <UniqueIdentifier>{f58b756f-4d46-4877-a0ee-606c0d6a2569}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\SFML">
+      <UniqueIdentifier>{5f838e88-c1b2-4985-88a4-68375966b991}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\AssetService\Abstracts">
+      <UniqueIdentifier>{1fd6ff12-f1fb-47ed-bea7-5432f9094a04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\InputService\Abstracts">
+      <UniqueIdentifier>{d9f1093d-0c93-41cd-b9f2-6d02493faa41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\HudService">
+      <UniqueIdentifier>{dc257896-455c-48dc-b843-5ed258714002}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\HudService\Abstracts">
+      <UniqueIdentifier>{0a8d9b6d-0298-4f96-b9cc-3486263e05a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\HudService">
+      <UniqueIdentifier>{6c45153f-cf9b-4370-95ad-e4f2702ed27c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Game.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMovingObject.cpp">
+      <Filter>Fichiers sources\Abstracts</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Fichiers sources\Abstracts</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderWindow.cpp">
+      <Filter>Fichiers sources\SFML</Filter>
+    </ClCompile>
+    <ClCompile Include="View.cpp">
+      <Filter>Fichiers sources\SFML</Filter>
+    </ClCompile>
+    <ClCompile Include="DisplayObject.cpp">
+      <Filter>Fichiers sources\Abstracts</Filter>
+    </ClCompile>
+    <ClCompile Include="Subject.cpp">
+      <Filter>Fichiers sources\Abstracts</Filter>
+    </ClCompile>
+    <ClCompile Include="Background.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Fighter.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerControlsBridge.cpp">
+      <Filter>Fichiers sources\InputService</Filter>
+    </ClCompile>
+    <ClCompile Include="Joystick.cpp">
+      <Filter>Fichiers sources\InputService</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyboardAndMouse.cpp">
+      <Filter>Fichiers sources\InputService</Filter>
+    </ClCompile>
+    <ClCompile Include="AssetManager.cpp">
+      <Filter>Fichiers sources\AssetService</Filter>
+    </ClCompile>
+    <ClCompile Include="Hud.cpp">
+      <Filter>Fichiers sources\HudService</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Zombie.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Score.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="LivesCounter.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Life.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMovingObject.h">
+      <Filter>Fichiers d%27en-tête\Abstracts</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Fichiers d%27en-tête\Abstracts</Filter>
+    </ClInclude>
+    <ClInclude Include="IAssetManager.h">
+      <Filter>Fichiers d%27en-tête\AssetService\Abstracts</Filter>
+    </ClInclude>
+    <ClInclude Include="IPlayerControls.h">
+      <Filter>Fichiers d%27en-tête\InputService\Abstracts</Filter>
+    </ClInclude>
+    <ClInclude Include="IPlayerControlsBridge.h">
+      <Filter>Fichiers d%27en-tête\InputService\Abstracts</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderWindow.h">
+      <Filter>Fichiers d%27en-tête\SFML</Filter>
+    </ClInclude>
+    <ClInclude Include="View.h">
+      <Filter>Fichiers d%27en-tête\SFML</Filter>
+    </ClInclude>
+    <ClInclude Include="DisplayObject.h">
+      <Filter>Fichiers d%27en-tête\Abstracts</Filter>
+    </ClInclude>
+    <ClInclude Include="IHud.h">
+      <Filter>Fichiers d%27en-tête\HudService\Abstracts</Filter>
+    </ClInclude>
+    <ClInclude Include="Limits.h">
+      <Filter>Fichiers d%27en-tête\Abstracts</Filter>
+    </ClInclude>
+    <ClInclude Include="IObserver.h">
+      <Filter>Fichiers d%27en-tête\Abstracts</Filter>
+    </ClInclude>
+    <ClInclude Include="Subject.h">
+      <Filter>Fichiers d%27en-tête\Abstracts</Filter>
+    </ClInclude>
+    <ClInclude Include="Background.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Hud.h">
+      <Filter>Fichiers d%27en-tête\HudService</Filter>
+    </ClInclude>
+    <ClInclude Include="Fighter.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerControlsBridge.h">
+      <Filter>Fichiers d%27en-tête\InputService</Filter>
+    </ClInclude>
+    <ClInclude Include="Joystick.h">
+      <Filter>Fichiers d%27en-tête\InputService</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyboardAndMouse.h">
+      <Filter>Fichiers d%27en-tête\InputService</Filter>
+    </ClInclude>
+    <ClInclude Include="AssetManager.h">
+      <Filter>Fichiers d%27en-tête\AssetService</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Zombie.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Score.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="LivesCounter.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Life.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DisplayObject.cd" />
+    <None Include="GameObject.cd" />
+  </ItemGroup>
+</Project>
